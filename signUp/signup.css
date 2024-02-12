@@ -21,6 +21,8 @@ body{
   
 }
 .sign-column{
+  position:absolute;
+  left:20%;
   display: flex;
   align-items: center;
   justify-content: center;
